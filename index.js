@@ -5,3 +5,4 @@ console.log(40);
 console.log(50);
 console.log(60);
 console.log(70);
+console.log(80);
