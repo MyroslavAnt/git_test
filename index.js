@@ -6,3 +6,4 @@ console.log(50);
 console.log(60);
 console.log(70);
 console.log(80);
+console.log(90);
